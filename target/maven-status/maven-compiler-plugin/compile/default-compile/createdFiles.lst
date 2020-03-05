@@ -1,0 +1,6 @@
+com/freshworks/com/config/ApplicationInitializer.class
+com/freshworks/com/domain/Sample2.class
+com/freshworks/com/repository/Sample2Repository.class
+com/freshworks/com/resources/Sample2Controller.class
+com/freshworks/com/service/Sample2Service.class
+com/freshworks/com/exception/ApplicationException.class
